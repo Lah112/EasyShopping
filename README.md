@@ -1,1 +1,3 @@
 # EasyShopping
+Android
+Kotlin
